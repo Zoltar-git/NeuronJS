@@ -7,6 +7,5 @@ Neuron is a script that is used on [Manyland](https://manyland.com) to access a 
 - Body Steal
 - Click Teleport
 
-
 ### Contact
 - Zoltar#9917
