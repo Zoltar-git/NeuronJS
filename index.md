@@ -8,10 +8,6 @@ Neuron is a script that is used on [Manyland](Manyland.com) to access a wide arr
 - Click Teleport
 
 
-```markdown
-
-```
-
 ### Contact
 - Zoltar#9917
 
